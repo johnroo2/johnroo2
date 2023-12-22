@@ -22,5 +22,5 @@ Hi, I'm John Liu! I'm a student at the University of Waterloo with a profound in
 
 <img src="https://github-readme-stats.vercel.app/api?username=johnroo2&show_icons=true&count_private=true&include_all_commits=false&theme=solarized-light" height="160">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnroo2&theme=solarized-light&layout=donut"
-height="160">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnroo2&theme=solarized-light&layout=donut"
+height="160"> -->
