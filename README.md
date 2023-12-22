@@ -8,25 +8,17 @@
 [![Linkedin](https://img.shields.io/badge/-John_Liu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-liu-590242246/)](https://www.linkedin.com/in/john-liu-590242246/)  [![Outlook](https://img.shields.io/badge/j369liu%40uwaterloo.ca-navy?logo=microsoftoutlook
 )](mailto:j369liu@uwaterloo.ca)
 
+### About Me
+
 Hi, I'm John Liu! I'm a student at the University of Waterloo with a profound interest in computer science, web development, and machine learning. When I'm not facing a screen, I enjoy reading, running, and playing the piano. I also have a YouTube channel dedicated to contest math, feel free to check it out!
 
 <img src="https://streak-stats.demolab.com/?user=johnroo2&theme=solarized-light" height="160"/>
 
-### Moderately experienced with:
+### A couple of skills I have...
 
-![experienced languages](https://skillicons.dev/icons?i=cpp,py,java,lua,html,css,js,react,next,tailwind&theme=dark)
+![icons](https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,typescript,html,css,java,react,nodejs,next,vite,tailwind,heroku,vercel,mongodb,mysql,sqlite,cpp,aws,figma&theme=dark&perline=7)
 
-![experienced technologies](https://skillicons.dev/icons?i=linux,raspberrypi,vim,neovim,blender,md,latex&theme=light)
-
-### Looking to gain more experience in:
-
-![unexperienced languages & technologies](https://skillicons.dev/icons?i=bash,git,docker,c,r,mysql,ts,nodejs,swift&theme=dark)
-* Artificial intelligence
-* Full-stack development
-
-### Favorite editors in order:
-
-![favorite editors](https://skillicons.dev/icons?i=neovim,vim,idea,eclipse&theme=light)
+### GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=johnroo2&show_icons=true&count_private=true&include_all_commits=false&theme=solarized-light" height="160">
 
