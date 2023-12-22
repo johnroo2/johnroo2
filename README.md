@@ -1,14 +1,16 @@
-# John Liu (`johnroo2`)
+# John Liu (`johnroo2`) 🦈🦫
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zerogtiger.zerogtiger&color=57bd57)  ![GitHub followers](https://img.shields.io/github/followers/zerogtiger?label=Follow&style=social)  [![Discord](https://dcbadge.vercel.app/api/shield/711020280826298440&?style=flat-square)](https://www.discordapp.com/users/711020280826298440)  [![Linkedin](https://img.shields.io/badge/-Tiger_Ding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiger-ding-16880a247/)](https://www.linkedin.com/in/tiger-ding-16880a247/)  [![Gmail](https://img.shields.io/badge/Gmail-zerogtiger%40gmail.com-red?logo=gmail
-)](mailto:zerogtiger@gmail.com)
+[![website](https://img.shields.io/badge/-Personal%20Site-black?style=flat-square&logo=Vercel&logoColor=white&link=https://john-liu.vercel.app/)](https://john-liu.vercel.app/) 
+![visitors](https://vbr.wocr.tk/badge?page_id=johnroo2.johnroo2&color=57bd57)  [![GitHub followers](https://img.shields.io/github/followers/johnroo2?label=Follow&style=social)](https://www.github.com/johnroo2) 
+[![Discord](https://img.shields.io/badge/-John_Liu-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/311661286213550091)](https://discord.com/users/311661286213550091)
+[![Instagram](https://img.shields.io/badge/john__roo2-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/john_roo2)](https://www.instagram.com/john_roo2)
+[![YouTube](https://img.shields.io/badge/John%20Liu-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCimJMDlPOc6vDoZlAJKSyXg)](https://www.youtube.com/channel/UCimJMDlPOc6vDoZlAJKSyXg) 
+[![Linkedin](https://img.shields.io/badge/-John_Liu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-liu-590242246/)](https://www.linkedin.com/in/john-liu-590242246/)  [![Outlook](https://img.shields.io/badge/j369liu%40uwaterloo.ca-navy?logo=microsoftoutlook
+)](mailto:j369liu@uwaterloo.ca)
 
+Hi, I'm John Liu! I'm a student at the University of Waterloo with a profound interest in computer science, web development, and machine learning. When I'm not facing a screen, I enjoy reading, running, and playing the piano. I also have a YouTube channel dedicated to contest math, feel free to check it out!
 
-I am a
-* Computer Science student at the University of Waterloo
-* Neovim enthusiast
-* UNIX-variant enthusiast
-* Open-source enthusiast
+<img src="https://streak-stats.demolab.com/?user=johnroo2&theme=solarized-light" height="160"/>
 
 ### Moderately experienced with:
 
@@ -26,41 +28,7 @@ I am a
 
 ![favorite editors](https://skillicons.dev/icons?i=neovim,vim,idea,eclipse&theme=light)
 
-<details>
-  <summary><h3>The</h3> <h1>WORST</h1> <h3>thing</h3> <h1>EVER</h1> <h3>made in the </h3> <h1>ENTIRETY</h1> <h3>of the</h3> <h1>UNIVERSE</h1></summary>
-  
-   Visual Studio Code<br>
-   <img src="https://skillicons.dev/icons?i=vscode&theme=dark"> 
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=johnroo2&show_icons=true&count_private=true&include_all_commits=false&theme=solarized-light" height="160">
 
-### Concise code summary
-```javascript
-const zerogtiger = {
-    pronouns: "He" | "Him",
-    kindaExperiencedLanguages: ["C++", "Python", "Java", "Lua", "LaTeX", "Markdown", "HTML", "CSS", "Javascript"],
-    kindaExperiencedTechnologies: ["Linux", "Raspberry Pi", "Vim", "Neovim", "Blender"],
-    notReallyExperiencedLanguages: [
-      "Bash", "Git", "C", "R",
-      "SQL", "Typescript", "NodeJS",
-      "ReactJS", "CSS", "Swift"
-    ],
-    askMeAbout: [
-      "competitive math",
-      "competitive programming",
-      "literature",
-      "graphics design",
-      "3D design \& visualization",
-      "sketching",
-      "photography"
-    ],
-    currentFocus: [ "full-stack dev", "rust" ],
-    lastUpdated: "2023/12/14"
-}
-```
-
-<details>
-  <summary><h3>Github Statistics</h3></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=zerogtiger&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerogtiger&theme=graywhite&include_all_commits=true&count_private=true" height="160"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogtiger&langs_count=8&theme=graywhite"><br>
-</details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnroo2&theme=solarized-light&layout=donut"
+height="160">
