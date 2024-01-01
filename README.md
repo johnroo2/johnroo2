@@ -16,7 +16,7 @@ Hi, I'm John Liu! I'm a student at the University of Waterloo with a profound in
 
 ### A couple of skills I have...
 
-![icons](https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,typescript,html,css,java,react,nodejs,next,vite,tailwind,heroku,vercel,mongodb,mysql,sqlite,cpp,aws,figma&theme=dark&perline=7)
+![icons](https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,typescript,html,css,java,react,nodejs,next,vite,tailwind,heroku,vercel,mongodb,mysql,sqlite,cpp,aws,ruby,rails,django,figma,&theme=dark&perline=8)
 
 ### GitHub Statistics
 
