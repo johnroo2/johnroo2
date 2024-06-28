@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hi, I'm John Liu! I'm a student at the University of Waterloo with a profound interest in computer science, web development, and machine learning. When I'm not facing a screen, I enjoy reading, running, and playing the piano. I also have a YouTube channel dedicated to contest math, feel free to check it out!
+Hi, I'm John Liu! I'm a computer science student at the University of Waterloo who's interested in computer science, web development, and machine learning. When I'm not facing a screen, I enjoy reading, running, and playing the piano. I also have a YouTube channel dedicated to contest math, feel free to check it out!
 
 <img src="https://streak-stats.demolab.com/?user=johnroo2&theme=solarized-light" height="160"/>
 
