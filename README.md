@@ -13,7 +13,7 @@
 Hi, I'm John Liu! I'm a computer science student at the University of Waterloo who's interested in software development and machine learning. When I'm not facing a screen, I enjoy reading, running, and playing the piano. I also have a YouTube channel dedicated to contest math, feel free to check it out!
 
 ### A couple of skills I have...
-![icons](https://skillicons.dev/icons?i=js,typescript,java,react,nodejs,next,swift,mongodb,mysql,postgres,cpp,aws,azure,ruby,rails,django,&theme=dark&perline=8)
+![icons](https://skillicons.dev/icons?i=js,typescript,java,react,nodejs,next,swift,mongodb,mysql,postgres,c,cpp,aws,azure,ruby,rails&theme=dark&perline=8)
 
 ### Stats
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/johnroo2/private-stats?style=for-the-badge&border_radius=10)
